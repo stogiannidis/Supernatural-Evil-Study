@@ -1,4 +1,4 @@
-# Supernatural_Evil_Study
+# Supernatural Evil Study
 
 A replicate of a study of belief in supernatural evil and attitudes towards guns in the United States. The study is:
 
